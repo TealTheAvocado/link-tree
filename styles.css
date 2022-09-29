@@ -3,7 +3,7 @@ button {
     margin: auto;
     margin-top: 1.5em;
     color: white;
-    background-color: lightskyblue;
+    background-color: #00CCCC;
     padding: 13px 32px;
     text-decoration: none;
     display: block;
@@ -19,9 +19,10 @@ button {
   }
   body{
     font-family: Courier New, sans-serif;
-    background-color: teal;
+    background-color: #202020;
     margin-top: 0;
     margin-left: 0em;
     margin-right: 0em;
     text-align: center;
+    color: white;
   }
