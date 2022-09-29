@@ -14,6 +14,10 @@ button {
     font-family: Courier New, sans-serif;
   }
   
+  button:hover{
+    background-color: #ddd;
+    color: black;
+  }
   h1{
     font-family: Courier New, sans-serif;
   }
